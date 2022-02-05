@@ -31,8 +31,6 @@ export const Home: React.FC = (): JSX.Element => {
     })();
   }, [date]);
 
-  console.log(pictureData);
-
   return (
     <Container>
       <TitleContainer>
