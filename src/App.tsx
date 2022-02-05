@@ -1,5 +1,12 @@
-function App() {
-  return <div></div>;
-}
+import { GlobalStyle } from "./styles/createGlobalStyles";
 
-export default App;
+import { Navigation } from "./routes";
+
+export const App: React.FC = (): JSX.Element => {
+  return (
+    <>
+      <GlobalStyle />
+      <Navigation />
+    </>
+  );
+};
