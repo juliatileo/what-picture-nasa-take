@@ -1,4 +1,4 @@
-<h1 align="center">What picture did NASA take on my birthday? 🍰</h1>
+<h1 align="center">What picture did NASA take today? 🍰</h1>
 <p align="center"><a href="https://what-picture-did-nasa-take.netlify.app">Deploy of the app</a></p>
 
 ## 💡 What is it?
